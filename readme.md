@@ -1,4 +1,4 @@
-✱ Bu repoda Html,Css ve Scss kullanılarak bir inşaat websitesi tasarlanmıştır.
+✱ Bu repoda Html,Css ve Scss kullanılarak Github profil örneği oluşturulmuştur.
 ✱ Özellikler
 
 ✱Responsive Tasarım
