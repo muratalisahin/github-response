@@ -1,8 +1,9 @@
 ✱ Bu repoda Html,Css ve Scss kullanılarak Github profil örneği oluşturulmuştur. <br>
 
 ✱ Özellikler<br>
-✱Responsive Tasarım
+Responsive Tasarım
 ✲Kullanıcı dostu arayüz<br>
+✱SCSS ile modüller oluşturularak proje yönetimi kolaylaştırılmıştır<br>
 
 ✱ Kullanılan Teknolojiler<br>
 
